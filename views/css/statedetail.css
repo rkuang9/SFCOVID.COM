@@ -1,0 +1,19 @@
+.state-name {
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    font-family: "Roboto",sans-serif
+}
+.us-total {
+    font-size: 40px;
+    color: #36b319;
+    text-align: center;
+    font-family: "Roboto",sans-serif
+
+}
+
+.center-div {
+
+    height: 10vh;
+    width: 100vw;
+}

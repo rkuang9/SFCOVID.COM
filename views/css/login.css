@@ -1,0 +1,31 @@
+.banner-title {
+    padding-top:2vh;
+    padding-bottom:1vh;
+    background-color: #2b2929;
+    height: auto;
+}
+
+.title {
+    color: white;
+    font-size: 35px;
+    font-family: Nunito,sans-serif;
+}
+
+.secondary-title {
+    color: white;
+    font-size: 20px;
+    font-family: Nunito,sans-serif;
+
+}
+
+
+
+
+.center-element {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+
+

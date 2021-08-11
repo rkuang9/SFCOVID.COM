@@ -1,0 +1,14 @@
+DirectoryIndex index.php
+
+php_value session.cookie_httponly 1
+
+
+
+
+# from php site:
+# Allow access to the session ID cookie only when the protocol is HTTPS.
+# If a website is only accessible via HTTPS, it should enable this setting
+
+#php_value session.cookie_secure 1
+
+ErrorDocument 404 /views/include/404.php

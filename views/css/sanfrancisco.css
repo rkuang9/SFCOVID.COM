@@ -1,0 +1,23 @@
+.map {
+    width: 100vw;
+    height: 80vh;
+    max-width: 100%;
+}
+
+.leaflet-popup-content-wrapper {
+    border-radius: 2px;
+
+}
+
+.leaflet-popup-content-wrapper .leaflet-popup-content {
+    font-size: 25px;
+}
+
+.leaflet-popup-tip-container {
+
+}
+
+.tooltip-no-event-flicker {
+    pointer-events: none;
+}
+

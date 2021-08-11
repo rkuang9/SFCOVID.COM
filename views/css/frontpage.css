@@ -1,0 +1,32 @@
+.text-center {
+    text-align: center;
+    font-size: 15px;
+}
+
+.parent-table {
+    /* center the table to middle of the screen */
+    margin-left: auto;
+    margin-right: auto;
+
+    /* set width of table */
+
+    width: 100vw !important;
+}
+
+/* set page background */
+.background-dark {
+    background-color: #343a40;
+}
+
+
+
+/* set font of all text within the body */
+body {
+    font-family: "Roboto",sans-serif !important;
+    font-size: 15px !important;
+}
+
+.link-color {
+    color: #4C74B9;
+}
+

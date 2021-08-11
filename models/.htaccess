@@ -1,0 +1,6 @@
+# Prevent access to directory
+Options -Indexes
+
+
+# Custom error page
+ErrorDocument 403 /views/include/404.php

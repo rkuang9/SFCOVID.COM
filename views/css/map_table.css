@@ -1,0 +1,23 @@
+table.dataTable tbody td {
+    word-break: break-word !important;
+    vertical-align: top;
+}
+
+.dataTables_wrapper .dataTables_scroll div.dataTables_scrollBody {
+    overflow-y: scroll !important;
+}
+
+/* text at top showing daily totals */
+.state-name {
+    padding-top: 2vh;
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+}
+
+
+/* map border color */
+path {
+    stroke: #555;
+}
